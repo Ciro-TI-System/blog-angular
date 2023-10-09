@@ -1,28 +1,19 @@
 <div class="container__big-card">
   <div class="big-card__photo">
-    <img
-      src="https://learn.microsoft.com/pt-br/sharepoint/dev/images/ng-intro-web-part-render-angular.png"
-      alt=""
-      height="200px"
-      srcset=""
-    />
+    <img src="{{ photoCover }}" alt="" height="200px" srcset="" />
   </div>
 
   <div class="big-card__title">
     <h1>
-      <a href="http://google.com" target="_blank" rel="noopener noreferrer"
-        >Saiu a nova versão do Angular</a
-      >
+      <a [routerLink]="['content', Id]">{{ cardTitle }}</a>
     </h1>
   </div>
+
   <div class="big-card__description">
     <p>
-      <a href="http://google.com" target="_blank" rel="noopener noreferrer"
-        >Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea sequi odit,
-        velit temporibus cupiditate ullam sunt obcaecati, itaque voluptatem
-        dolores, dicta officiis reiciendis aut corrupti optio deserunt iste
-        saepe ducimus.</a
-      >
+      <a [routerLink]="['content', Id]">
+        {{ cardDescription }}
+      </a>
     </p>
   </div>
 </div>

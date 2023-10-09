@@ -1,21 +1,16 @@
 <div class="container__small-card">
   <div class="container__small-card-content">
     <div class="small-card__photo">
-      <img
-        src="https://www.zup.com.br/wp-content/uploads/2021/03/5e32dc5538c14b0d4b28f87f_imagens-angular3-1024x677.png"
-        alt=""
-        srcset=""
-      />
+      <img src="{{ photoCover }}" alt="" srcset="" />
     </div>
 
     <div class="small-card__title">
       <h1>
-        <a href="http://google.com" target="_blank" rel="noopener noreferrer"
-          >Saiu a nova versão do Angular</a
-        >
+        <a [routerLink]="['content', Id]">{{ cardTitle }}</a>
       </h1>
     </div>
   </div>
+
   <div class="container__small-card__separator">
     <hr />
   </div>
