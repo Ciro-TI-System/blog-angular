@@ -1,9 +1,19 @@
 .container__menu-bar > ul {
   display: flex;
   flex-direction: row;
+  padding-bottom: 30px;
+  padding-top: 50px;
 }
 
 .container__menu-bar > ul > li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin-right: 20px;
   list-style: none;
+}
+
+.container__menu-bar > ul > li > img {
+  padding-right: 5px;
+  height: 60px;
 }

@@ -3,8 +3,27 @@
 Blog desenvolvido durante o curso `Ganhando Produtividade com Angular` durante o 'Bootcamp Santander - Fullstack Java+Angular da DIO (Digital Innovation One).
 
 <p align="center">
-  <img src=".github/Santander Bootcamp - Fullstack Java+Angular.jpg" width="100%">
+  <img src=".github/DC-Comics-Blog-Home.jpg" width="100%">
+  <img src=".github/DC-Comics-Blog-Content.jpg" width="100%">
 </p>
+
+<br>
+
+## 🛠 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Angular](https://angular.io/)**
+
+<br>
+
+## 🎲 DEMO
+
+https://github.com/Ciro-TI-System/Movie-Suggestion-Generator/assets/78507494/4ee3b6f4-0fbd-4534-ae2a-f6a03152b6d0
 
 <br>
 

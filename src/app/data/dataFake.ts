@@ -1,30 +1,30 @@
 export const dataFake = [
   {
     id: '1',
-    title: 'NOVO HOMEM DE FERRO EM 3D',
-    description: 'marvel anuncia um novo filme do homem de ferro, confira',
+    title: 'Super Girl',
+    description: 'Com o sucesso da história do Superman em diversas mídias, a DC foi aos poucos expandindo as tramas ao redor de Kal-El. Foi assim que, em 1959, surgiu a primeira versão da Supergirl. Chamada em seu planeta de Kara Zor-El, essa personagem já foi mostrada em vários quadrinhos da editora e também ganhou uma série própria na CW, estrelada por Melissa Benoist. No entanto, a Warner/DC está pronta para apresentar uma nova versão da heroína nos cinemas.',
     photoCover:
-      'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg',
+      'https://wallpapers.com/images/high/supergirl-series-digital-cover-c4s2gscj9v1dc1h4.webp',
   },
   {
     id: '2',
-    title: 'Nova Série anunciada no Disney +',
-    description: 'bla bla bla',
+    title: 'Quem é a Supergirl no Filme do Flash? Explicando a Personagem',
+    description: 'Sasha Calle interpreta Kara Zor-El no filme estrelado por Ezra Miller. A personagem se juntará ao velocista e ao Batman de Michael Keaton na tentativa de salvar o multiverso de uma perigosa ameaça. Henry Cavill, você deve lembrar, fez o Superman nos filmes da DC de Zack Snyder.',
     photoCover:
-      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
+      'https://recreio.uol.com.br/media/uploads/dc_comics/supergirl_sasha_colle_capa.jpg',
   },
   {
     id: '3',
-    title: 'Novo filme do pantera negra lançado em breve',
-    description: 'bla bla bla',
+    title: 'Mulher- Maravilha é sinônimo de virtudes como a justiça',
+    description: 'Em 1941, o psicólogo e escritor William Moulton Marston apresentou ao mundo a Mulher-Maravilha: uma super-heroína criada para proteger a terra e que foi inspirada em sua própria esposa. O verdadeiro nome da Mulher-Maravilha é Diana Prince, uma amazona filha da rainha Hipólita e de Zeus, um conhecido deus da mitologia grega.',
     photoCover:
-      'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/35720ACD323F927C3A83D809D0F460BD3651740DA519BCC184B6F042057EA14D/scale?width=1200&aspectRatio=1.78&format=jpeg',
+      'https://wallpapers.com/images/hd/wonder-woman-sword-and-shield-tjqrbu7ex7g8bqlg.webp',
   },
   {
     id: '4',
-    title: 'Novo filme dos X-men está em pós produção, afirma diretor',
-    description: 'bla bla bla',
+    title: 'Vai ter Aquaman 3?',
+    description: 'O co-chefe da DC Studios Peter Safran indicou durante uma fala que um terceiro filme do Aquaman com Jason Momoa deve acontecer. A fala de Safran ainda descartou a possibilidade do ator interpretar o personagem Lobo no universo cinematográfico.',
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://legadodadc.com.br/wp-content/uploads/2023/09/Aquaman-3-James-Wan-responde-se-dirigiria-um-terceiro-filme-legadodadc.webp',
   },
 ];

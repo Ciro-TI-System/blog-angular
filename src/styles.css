@@ -3,11 +3,34 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #111111;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   color: white;
   font-family: "Segoe UI";
+  font-weight: lighter;
+}
+
+body {
+  background-image: url("https://wallpapers.com/images/high/batman-background-ek3luej61wk89q1m.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: grid;
+  place-content: center;
+  width: 100%;
+  height: 110vh;
+  backdrop-filter: brightness(0.2);
 }
 
 a {
   text-decoration: none;
+}
+
+.scroll{
+  overflow: hidden;
+  width: calc(100% - 5px);
+}
+.scroll:hover{
+  overflow-y: scroll;
+  width: 100%;
 }
