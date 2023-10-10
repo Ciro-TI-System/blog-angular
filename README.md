@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎲 DEMO
 
-https://github.com/Ciro-TI-System/Movie-Suggestion-Generator/assets/78507494/4ee3b6f4-0fbd-4534-ae2a-f6a03152b6d0
+
 
 <br>
 
