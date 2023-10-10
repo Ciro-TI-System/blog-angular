@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎲 DEMO
 
-https://github.com/Ciro-TI-System/blog-angular/blob/main/.github/DC%20Comics%20Blog.mp4
+https://github.com/Ciro-TI-System/blog-angular/assets/78507494/5e660e38-8181-4a79-938b-27999568e636
 
 <br>
 
