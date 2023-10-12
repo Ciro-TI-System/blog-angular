@@ -26,11 +26,11 @@ a {
   text-decoration: none;
 }
 
-.scroll{
+.scroll {
   overflow: hidden;
   width: calc(100% - 5px);
 }
-.scroll:hover{
+.scroll:hover {
   overflow-y: scroll;
   width: 100%;
 }
